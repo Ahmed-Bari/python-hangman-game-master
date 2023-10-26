@@ -1,5 +1,3 @@
-# python-hangman-game
-This respiratory contain a .py file containing the complete python code of Hangman Game and a .ppt file containing the complete step-by-step description of the code.
 Make a function named hangman.
 
 Make a list of words.
@@ -117,3 +115,4 @@ Create a list (b) contains the player name and string “you lose”
 Append list (b) as a new row to the end of the sheet
 
 Save the workbook
+
